@@ -16,4 +16,11 @@ Particle.js, Typed.js, Tilt.js, Scroll Reveal, Tawk.to, Font Awesome and JSON
 ## 📌 Sneak Peek of Main Page 🙈 :
 ![mockup720](https://github.com/Abhay2628/Portfolio/blob/main/assets/images/projects/portfolio1.png)
 
+<h2>📬 Contact</h2>
+
+
+If you want to contact me, you can reach me through below handles.
+
+&nbsp;&nbsp;<a href="https://www.linkedin.com/in/abhay-kumar-815a37268/"><img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="30"></img></a>
+
 © 2023 Abhay Kumar
