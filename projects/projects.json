@@ -2,7 +2,7 @@
   {
     "name": "Project Website",
     "desc": "Personal portfolio website. Don't need much info about it, just scroll down. You're here only!",
-    "image": "portfolio1.png",
+    "image": "portfolio1",
     "category": "All Projects",
     "links": {
       "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
@@ -22,7 +22,7 @@
   {
     "name": "Gym Website",
     "desc": "Helps in getting instant weather details of your locality within seconds.",
-    "image": "newsboxandroid",
+    "image": "Gym1",
     "category": "All Projects",
     "links": {
       "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
