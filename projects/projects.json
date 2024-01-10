@@ -21,7 +21,7 @@
   },
   {
     "name": "Gym Website",
-    "desc": "Helps in getting instant weather details of your locality within seconds.",
+    "desc": "Helps in getting instant gym details of your locality within seconds.",
     "image": "Gym1",
     "category": "All Projects",
     "links": {
@@ -31,7 +31,7 @@
   },
   {
     "name": "Simple Calculator",
-    "desc": "Native android app built using Java, XML and Volley dependencies. Provides weather forecast.",
+    "desc": "Simple calculator is a project to allow users to calculate basic four operations in mathematics( addition, subtraction, multiplication, division).",
     "image": "Calculator",
     "category": "All Projects",
     "links": {
@@ -41,7 +41,7 @@
   },
   {
     "name": "Temperature Convertor",
-    "desc": "Full-Stack Instagram clone built using MERN stack and realtime chat with the help of socket.iO",
+    "desc": "This is a simple project that converts temperature from a Celsius unit to Fahrenheit and vice versa. ",
     "image": "Temperature",
     "category": "All Projects",
     "links": {
@@ -51,7 +51,7 @@
   },
   {
     "name": "N-Queen visulaizer",
-    "desc": "Full-Stack Flipkart with Admin Dashboard and Paytm Payment Gateway. MERN Stack WebApp, ready to use for business.",
+    "desc": "The N-Queens puzzle is the problem of placing N chess queens on an N×N chessboard so that no two queens threaten each other.",
     "image": "NQUEEN",
     "category": "All Projects",
     "links": {
