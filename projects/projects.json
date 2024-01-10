@@ -2,10 +2,10 @@
   {
     "name": "Project Website",
     "desc": "Personal portfolio website. Don't need much info about it, just scroll down. You're here only!",
-    "image": "./assets/images/projects/portfolio1.PNG",
+    "image": "portfolio1",
     "category": "All Projects",
     "links": {
-      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
+      "view": "https://abhaykumar2808-portfolio.netlify.app",
       "code": "https://github.com/Abhay2628/Portfolio"
     }
   },
